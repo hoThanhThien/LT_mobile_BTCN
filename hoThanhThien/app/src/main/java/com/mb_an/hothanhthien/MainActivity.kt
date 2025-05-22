@@ -57,7 +57,7 @@ fun ProfileUI(name: String, modifier: Modifier = Modifier) {
             }
         )
 
-        // Nội dung ở giữa
+
         Column(
             modifier = Modifier
                 .fillMaxSize()
