@@ -27,4 +27,5 @@ Bên cạnh đó, các công nghệ mới như AI, AR/VR, IoT đang tích hợp 
 
 Bài Tập Buổi 2:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/64c24c89-c7e0-4868-ad09-f5e7b4f193cf)
+
