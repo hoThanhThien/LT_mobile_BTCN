@@ -35,6 +35,8 @@ Buổi 3:
 
 
 ảnh 1
+
+
 ![image](https://github.com/user-attachments/assets/2275babc-b95e-4eb2-a921-48c84a8a2fac)
 
 
